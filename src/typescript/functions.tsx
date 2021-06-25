@@ -6,7 +6,7 @@ const FunctionsExample = () => {
 
   return <>
     <h1>
-      Ejecutando una juncion con types: <small>{ sum(10, 5) }</small>
+      Ejecutando una funcion con types: <small>{ sum(10, 5) }</small>
     </h1>
   </>
 }
