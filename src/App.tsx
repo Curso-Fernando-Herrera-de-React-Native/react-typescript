@@ -2,6 +2,8 @@ import TiposBasicos from 'typescript/TiposBasicos'
 import ObjetosLiterales from 'typescript/ObjetosLiterales'
 import FunctionsExample from 'typescript/functions';
 import Counter from 'components/Counter';
+import Login from 'components/Login/Login'
+
 
 function App() {
   return (
@@ -10,6 +12,7 @@ function App() {
       <ObjetosLiterales />
       <FunctionsExample />
       <Counter />
+      <Login />
     </div>
   );
 }
